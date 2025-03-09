@@ -17,38 +17,6 @@
 
 - ⚡ Fun fact **I enjoy breaking code to make it stronger!**
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ritwik-vinay&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik-vinay&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">📈 Detailed GitHub Stats</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <b>Total Stars Earned:</b> 0<br>
-      <b>Total Commits (2025):</b> 33<br>
-      <b>Total PRs:</b> 18<br>
-      <b>Total Issues:</b> 12<br>
-      <b>Contributed to (last year):</b> 0
-    </td>
-    <td>
-      <b>Total Contributions:</b> 70<br>
-      <b>Current Streak:</b> 0 (Mar 9)<br>
-      <b>Longest Streak:</b> 8 (Jan 31 - Feb 7)
-    </td>
-  </tr>
-</table>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ritwik-vinay/" target="https://www.linkedin.com/in/ritv/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritwik-vinay" height="30" width="40" /></a>
@@ -60,5 +28,5 @@
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-</p>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+  <
