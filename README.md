@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vinayritwik@gmail.com**
 
-- 📄 Know about my experiences https://pdf.ac/4OtgwS
+- 📄 Know about my experiences https://brown-elladine-5.tiiny.site
 
 - ⚡ Fun fact **I enjoy breaking code to make it stronger!**
 
